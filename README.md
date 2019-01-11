@@ -11,3 +11,6 @@ This file is a collection of English language text that is used for contextual h
 
 # 3. OtherStrings.txt
 This file contains English language strings that are used elsewhere in Amphetamine.
+
+# 4. App_Store_Text.txt
+This file contains the English language text from Amphetamine's App Store listing.
