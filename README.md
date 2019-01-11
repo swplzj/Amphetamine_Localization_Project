@@ -1,8 +1,6 @@
 # Amphetamine Localization Project
 This repository serves as the home for resources needed to localize Amphetamine (macOS app) into a new language.
 
-Several files are found in this repository that can be used to localize Amphetamine:
-
 # 1. MainMenu.strings
 This is the base file for Amphetamine's English language. The text included in this file includes all of the English strings found in Amphetamine's user interface.
 
