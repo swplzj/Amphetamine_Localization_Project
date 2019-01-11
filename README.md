@@ -1,5 +1,5 @@
 # Amphetamine Localization Project
-This repository serves as the home for resources needed to bgin localizing Amphetamine (macOS app) into a new language.
+This repository serves as the home for resources needed to localize Amphetamine (macOS app) into a new language.
 
 Several files are found in this repository that can be used to localize Amphetamine:
 
