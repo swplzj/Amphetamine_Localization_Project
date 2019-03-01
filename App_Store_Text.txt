@@ -1,5 +1,6 @@
 Welcome to Amphetamine 4, the most awesome keep-awake utility ever created for macOS. Amphetamine can keep your Mac, and optionally its display, awake through a super simple on/off switch, or automatically through easy-to-configure Triggers. Amphetamine is extremely powerful and includes advanced features for those who need them, yet remains super intuitive and simple to use for those who don't need all the bells and whistles.
 
+欢迎使用Amphetamine 4，这是为macOS创建的最棒的保持清醒实用程序。Amphetamine可以通过超级简单的开/关切换，或通过易于配置的触发器自动保持您的Mac和可选显示器清醒。 Amphetamine是非常强大的，包括为有需求的用户提供的高级功能，但对于那些不需要所有花里胡哨功能的人来说，它仍然非常直观，易于使用。
 
 === Click to Keep Your Mac Awake ===
 
@@ -9,6 +10,13 @@ Quickly start a keep-awake session from Amphetamine's menu to keep your Mac awak
 • While a file is downloading
 • While a specific app is running
 
+=== 单击以保持您的Mac清醒 ===
+
+从Amphetamine的菜单中快速启动保持清醒的会话，让您的Mac保持清醒状态。
+
+• 无限期限，在指定的时间内，或直到指定的时间
+• 正在下载文件
+• 特定应用程序正在运行
 
 === Advanced Automation ===
 
@@ -26,6 +34,21 @@ Create a Trigger to automatically keep your Mac awake.
 • While headphones or another audio output is in use
 • While a specific drive or volume is mounted
 
+=== 高级自动化 ===
+
+创建一个触发器以自动保持您的Mac唤醒。
+
+• 连接外接显示器时
+• 连接USB或蓝牙设备时
+• 特定应用程序正在运行时
+• 特定应用程序正在运行且在最前面
+• 您的Mac电池正在充电和/或电池电量超过阈值时
+• 您的Mac连接交流电源时
+• 您的Mac具有特定的IP地址时
+• 您的Mac在特定的WiFi网络上时
+• 您的Mac连接到VPN服务时
+• 正在使用耳机或其他音频输出时
+• 安装特定驱动器或卷时
 
 === What's the Catch? ===
 
@@ -38,7 +61,18 @@ No catch. Amphetamine is 100% free. It's a gift from me, to you. Enjoy!
 • No links for other paid apps
 • No tracking
 • No data-harvesting
- 
+
+=== 什么陷阱？===
+
+没有陷阱。 Amphetamine百分之百免费。 这是我送给你的礼物。 请享用！
+
+• 没有广告
+• 没有应用内购买
+• 无需解锁/无“专业版”
+• 没有恼人的提示要求您检查Amphetamine
+• 没有其他付费应用的链接
+• 没有跟踪
+• 无数据收集
 
 === What Else Does Amphetamine Do? === 
 
@@ -53,6 +87,18 @@ Amphetamine is the most powerful and customizable keep-awake utility ever create
 • Auto-end session if your Mac's battery is low
 • Hot key support for starting/ending sessions
 
+=== Amphetamine还可以做什么？ ===
+
+Amphetamine是有史以来为macOS创建的功能最强大且可自定义的保持唤醒实用程序。 其他一些值得注意的特色功能有：
+
+• 使用驱动唤醒让您的驱动器保持唤醒状态
+• AppleScript支持
+• 使用您自己的菜单栏图标
+• 让您的显示器在睡眠状态下保持您的Mac为唤醒状态
+• 允许屏幕保护程序在可自定义的不活动时段后运行
+• 菜单中显示剩余的可选会话时间（支持12/24小时制）
+• 如果Mac的电池电量过低，则自动结束会话
+• 开始/结束会话的热键支持
 
 === System Requirements + Other Details === 
 
@@ -60,16 +106,27 @@ Amphetamine is the most powerful and customizable keep-awake utility ever create
 • Amphetamine supports Retina displays and macOS dark mode.
 • To keep your Mac awake in closed-lid mode, see https://support.apple.com/HT201834
 
+=== 系统要求 + 其他细节 ===
 
+• Amphetamine需要macOS 10.11 El Capitan或更高系统版本
+• Amphetamine支持Retina显示屏和macOS深色模式。
+• 要在合上显示屏模式下保持您的Mac处于唤醒状态，请参阅https://support.apple.com/HT201834
 
 ------------------
 APP STORE SUBTITLE:
 Powerful keep-awake utility
 
+------------------
+APP STORE SUBTITLE：
+强大的保持唤醒实用程序
 
 -----------------------
 APP STORE KEYWORDS:
 
 wake,awake,anti,sleep,prevent,display,power,caffeine,battery,schedule,screen,saver,on,nosleep
 
+-----------------------
+APP STORE KEYWORDS:
+
+醒，唤醒，抗，睡眠，防止，显示器，电源，咖啡因，电池，规划，屏幕，保护程序，清醒，无睡眠
 
